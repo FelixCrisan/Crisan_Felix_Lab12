@@ -4,6 +4,7 @@ using System.Text;
 using Newtonsoft.Json;
 using System.Threading.Tasks;
 using Crisan_Felix_12_2.Models;
+using System.Net.Http;
 
 namespace Crisan_Felix_12_2.Data
 {

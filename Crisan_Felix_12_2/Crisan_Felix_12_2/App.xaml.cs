@@ -2,6 +2,7 @@
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using Crisan_Felix_12_2.Data;
+using Crisan_Felix_12_2.Models;
 
 namespace Crisan_Felix_12_2
 {

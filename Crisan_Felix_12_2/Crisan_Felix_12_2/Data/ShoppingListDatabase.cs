@@ -6,7 +6,7 @@ using Crisan_Felix_12_2.Models;
 
 namespace Crisan_Felix_12_2.Data
 {
-    class ShoppingListDatabase
+    public class ShoppingListDatabase
     {
         IRestService restService;
         public ShoppingListDatabase(IRestService service)
